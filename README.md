@@ -44,11 +44,13 @@ The website provides a smooth user experience with various interactive features,
 3. Import the database `grocery_db.sql` into MySQL using phpMyAdmin or MySQL command line.
 4. Update the database connection details in the `config.php` file.
 5. Start the server and access the website from your browser.
+![Screenshot 2024-10-23 202910](https://github.com/user-attachments/assets/0b443a01-dd6c-4e0f-8070-ac6b77a9975a)
+![Screenshot 2024-10-23 202910](https://github.com/user-attachments/assets/8b581b03-5989-4154-b12d-1b1d21e705aa)
+![Screenshot 2024-10-23 202910](https://github.com/user-attachments/assets/462a2698-491d-4e31-a658-54a155a64ea9)
+![Screenshot 2024-10-23 202910 - Copy (2)](https://github.com/user-attachments/assets/ae6151be-3bad-47c0-abe9-ae41c09230e1)
 
-## Demo
-
-You can view a live demo of the project [here](#).
 
 
 
-This description should give potential users and contributors a clear idea of your project’s features and how to get started!
+
+
