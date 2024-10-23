@@ -45,9 +45,12 @@ The website provides a smooth user experience with various interactive features,
 4. Update the database connection details in the `config.php` file.
 5. Start the server and access the website from your browser.
 ![Screenshot 2024-10-23 202910](https://github.com/user-attachments/assets/0b443a01-dd6c-4e0f-8070-ac6b77a9975a)
-![Screenshot 2024-10-23 202910](https://github.com/user-attachments/assets/8b581b03-5989-4154-b12d-1b1d21e705aa)
-![Screenshot 2024-10-23 202910](https://github.com/user-attachments/assets/462a2698-491d-4e31-a658-54a155a64ea9)
-![Screenshot 2024-10-23 202910 - Copy (2)](https://github.com/user-attachments/assets/ae6151be-3bad-47c0-abe9-ae41c09230e1)
+![Screenshot 2024-10-23 202954](https://github.com/user-attachments/assets/a3e917c9-38d4-47b8-9adc-8417d44182da)
+![Screenshot 2024-10-23 203030](https://github.com/user-attachments/assets/eb47f45b-50e2-4419-a752-0b4485b0448c)
+![Screenshot 2024-10-23 203107](https://github.com/user-attachments/assets/866e5c83-e5b6-4011-9513-af1c0fa9fe68)
+
+
+
 
 
 
